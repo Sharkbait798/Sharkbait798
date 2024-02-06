@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abel Vazquez
 ====================================================================================================================================
 
-I am an entry-level cybersecurity professional with a passion for continuous learning and skill development who actively engages in various aspects of the field to build a robust foundation. I am building a strong commitment to enhancing my expertise through multiple approaches which include Python projects, CTF Challenges, as well as home firewall setups.
+I am an entry-level cybersecurity enthusiast with a passion for continuous learning and skill development who actively engages in various aspects of the field to build a robust foundation. I am building a strong commitment to enhancing my expertise through multiple approaches which include Python projects, CTF Challenges, as well as home firewall setups.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [Abel\_Virrueta@outlook.com](mailto:Abel_Virrueta@outlook.com)
-* 🧠  I'm learning how to set up a static and dynamic virtual environment to run malware analysis scenario and reverse engineer them.
+* 🧠  I'm learning how to set up a static and dynamic virtual environment to run malware analysis scenarios and reverse engineer them.
 * 🤝  I'm open to collaborating on Raspberry Pi Projects, CTF challenges, and anything Tech.
 
 ### Skills
